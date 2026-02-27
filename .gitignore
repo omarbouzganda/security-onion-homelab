@@ -1,0 +1,19 @@
+# Common ignore patterns
+
+# Logs
+*.log
+
+# Backups
+*.bak
+*.tmp
+*.swp
+
+# Sensitive files
+*.env
+*.pem
+*.key
+
+# Temporary files
+.DS_Store
+*.tmp
+*.temp
